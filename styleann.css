@@ -10,7 +10,7 @@ h1
 }
 #nav2
 {
-    background-image: url("https://wallpaperaccess.com/full/1603865.png");
+    background-image: url("images/pitchblack.png");
     height: 60px !important;
 }
 h4
@@ -25,15 +25,13 @@ h4
 }
 #herro
 {
-    background-image: url("https://wallpaperaccess.com/full/1603865.png");
+    background-image: url("images/pitchblack.png");
     position:fixed;
     width:100%;
 }
 #giff
 {
-    background-image: url('anngif.gif');
-    /* background-image: url('https://media.giphy.com/media/l2QE2buzULWxfb9qo/giphy.gif') ; */
-    /* background-image: url('https://media.giphy.com/media/eGF3gwdKiDl16/giphy.gif'); */
+    background-image: url('images/announcements.gif');
     background-size: repeat;
     
     opacity: 1;
@@ -93,7 +91,12 @@ div
     25% {opacity:1;}
 }
 
-#go-top {
+#post
+{
+    font-family: 'Tomorrow', sans-serif;
+}
+#go-top 
+{
     right:1em;
     bottom:2em;
     text-decoration:none;
